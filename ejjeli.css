@@ -1,0 +1,22 @@
+table {
+    background-color: darkslategray;
+}
+
+img {
+    border: 1px solid black;
+    float: left;
+}
+
+p {
+    color: white;
+    font-size: large;
+}
+
+a {
+    color: white;
+    font-size: large;
+}
+
+h2 {
+    color: white;
+}
